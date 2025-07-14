@@ -42,10 +42,12 @@ It should also work on any Linux system with Python 3 and the `requests` library
 2. Run the script using Python 3:  
 # For Basic version  
 ```
+curl -O https://raw.githubusercontent.com/monhacer/VulnX/refs/heads/main/vulnX.py
 python3 vulnX.py    
 ```
 # For Advanced version  
 ```
+curl -O https://raw.githubusercontent.com/monhacer/VulnX/refs/heads/main/vulnXpro.py
 python3 vulnXpro.py 
 ```
 ---
