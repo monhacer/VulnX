@@ -42,11 +42,11 @@ It should also work on any Linux system with Python 3 and the `requests` library
 2. Run the script using Python 3:  
 # For Basic version  
 ```
-python3 vulnX_basic.py    
+python3 vulnX.py    
 ```
 # For Advanced version  
 ```
-python3 vulnX_advanced.py 
+python3 vulnXpro.py 
 ```
 ---
 Follow the interactive prompts.
